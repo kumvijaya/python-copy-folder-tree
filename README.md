@@ -14,5 +14,5 @@ Usage example:
 python copy_folder_tree.py --src 'c://folder1' --dest 'c://folder2'
 ``
 
-Refer more details 
-- [Using shutil](https://www.geeksforgeeks.org/python-copy-directory-structure-without-files/)
+**Reference**
+[Using shutil](https://www.geeksforgeeks.org/python-copy-directory-structure-without-files/)
