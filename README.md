@@ -12,7 +12,7 @@ This module takes below parameters.
 Usage example:
 ```
 python copy_folder_tree.py --src 'c://folder1' --dest 'c://folder2'
-``
+```
 
-**Reference**
+## Reference ##
 [Using shutil](https://www.geeksforgeeks.org/python-copy-directory-structure-without-files/)
